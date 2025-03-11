@@ -19,14 +19,25 @@ body {
     color: #F6F6F6;
     /*cor do texto com hexargb hexadecimal*/
 }
-
-.titulo-destaque {
-/*classe do html no css*/
-
-    color:#22D4FD; 
+.cabeçalho  {
+padding: 2% 0%  0% 15%;
 }
+
+.cabeçalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabeçalho_menu_link {
+font-family: 'Montserrat' , sans-serif;
+font-size: 24px;
+font-weight: 600;
+color: #22D4FD;
+
+}
+
 .apresentacao {
-    padding: 8% 15%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content:space-between;
@@ -44,8 +55,13 @@ body {
 .apresentacao__conteudo__titulo {
     font-size:36px; 
     font-family: 'Krona one',sans-serif;
-
 }
+
+.titulo-destaque {
+    /*classe do html no css*/
+    
+        color:#22D4FD; 
+    }
    
 .apresentacao__conteudo__texto {
     font-size:24px; 
