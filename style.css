@@ -9,7 +9,7 @@
 
 body {
     
-    /* height: 100vh; */
+    height: 100vh;
     /* altura da tela = viewport*/
     box-sizing: border-box;
     /*garante o posicionamento dos elementos das tag filho dentro das teg pai  -
