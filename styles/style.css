@@ -8,7 +8,6 @@
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif; }
     /* adicionando elemento raiz do HTML com root e definindo as cores em variáveis CSS */
-
     * {
     margin: 0;
     padding: 0;
