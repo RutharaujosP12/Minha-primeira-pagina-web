@@ -119,6 +119,16 @@ width: 50%;
     font-weight: 400;
 }
  @media(max-width: 1200px ){
+
+ .cabeçalho {
+    padding: 10%;
+}
+
+ .cabeçalho__menu {
+
+    justify-content: center;
+}
+
 .apresentacao {
     flex-direction: column-reverse;
 }
