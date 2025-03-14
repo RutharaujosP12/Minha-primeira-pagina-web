@@ -131,6 +131,11 @@ width: 50%;
 
 .apresentacao {
     flex-direction: column-reverse;
+    padding: 5%;
+}
+
+.apresentacao__conteudo{
+    width:auto;
 }
  }
 /* utilização de media queries para adaptar a página em dispositivos menores  */
